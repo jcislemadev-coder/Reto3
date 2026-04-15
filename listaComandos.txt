@@ -1,0 +1,1 @@
+git commit: Guarda de forma permanente en el repositorio una instantánea de los cambios preparados en el area de montaje (staging area) Da una descripción y los alista para cargarlos. Es algo similar a un punto de guardado esencial que registra el historial permitiendo rastrear evoluciones y volver a versiones anteriores del codigo
